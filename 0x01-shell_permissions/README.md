@@ -1,3 +1,5 @@
-Script that adds execute permission to the owner and the group owner,and read permissions to other users,to the file hello.
- .The file hello will be in the working directory
- .You are not allowed to use commas for this script
+Script tha sets the permission to the file hello as follows:
+ .Owner:no permission at all
+ .Group:no permission at all
+ .Other users: all the permissions
+The file hello will be in the working directory You are not allowed to use commas for this script
