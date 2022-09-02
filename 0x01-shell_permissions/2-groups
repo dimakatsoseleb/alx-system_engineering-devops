@@ -1,3 +1,4 @@
 #!/bin/bash
--g
+id -G all groups
+
 
