@@ -1,2 +1,1 @@
-Script that prints the type of the named iamafile.The file iamafile will be in the /tmp directory when we will run your script
-
+Create a symbolic link to /bin/ls, named _ls_.The symbolic link should be created in the current working directory.
