@@ -1,1 +1,3 @@
-Script that creates a directory called my_dir with permissions 751 in the working directory
+Script that changes the the group owner to school for the file hello
+   .The file hello will be in the working directory
+
