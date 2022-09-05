@@ -1,1 +1,1 @@
-Script that display the third line of the file iacta.The file iacta will be in the working directory
+Script that creates a file named Best school ending by a new line
