@@ -1,1 +1,1 @@
-Scripts that creates a file named \*\\'" Best School"\'\\*$\?\*\*\*\*\*:)containing the text Best School ending by new line
+Script that prints "Hello,World"followed by a new line to the standard output
