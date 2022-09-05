@@ -1,1 +1,1 @@
-Creates script that removes all letters c and C from the input.
+Script that display all users and their home directories,sorted by users
