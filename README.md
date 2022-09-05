@@ -1,1 +1,1 @@
-Display the last 10 lines of /etc/passwd
+Script that display the third line of the file iacta.The file iacta will be in the working directory
