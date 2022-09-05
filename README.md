@@ -1,3 +1,4 @@
-Script that counts the number of directories and sub-directories in the current directories'
-.The current and parent directories should not be taken into account
-.Hidden directories should be counted
+Script that takes a list of words as inputand prints only words that appear exactly once.
+.Input format:one line, one word
+.output format:one line ,one word
+.words should be sorted
