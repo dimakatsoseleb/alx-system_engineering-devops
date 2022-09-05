@@ -1,1 +1,3 @@
-Script that delete regular files (not the directories)with a.js extension that are present in the current directory and all subfolders.
+Script that counts the number of directories and sub-directories in the current directories'
+.The current and parent directories should not be taken into account
+.Hidden directories should be counted
