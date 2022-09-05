@@ -1,1 +1,1 @@
-Script that display all users and their home directories,sorted by users
+Scripts that creates a file named \*\\'" Best School"\'\\*$\?\*\*\*\*\*:)containing the text Best School ending by new line
