@@ -1,1 +1,2 @@
-Display number of the lines containing the pattern "bin"from the file/etc/passwd
+Display all the lines of the file /etc/ssh/sshd_config starting with a letter.
+.include capital letters as well
