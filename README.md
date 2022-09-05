@@ -1,2 +1,1 @@
-Display all the lines of the file /etc/ssh/sshd_config starting with a letter.
-.include capital letters as well
+Creates script that removes all letters c and C from the input.
