@@ -1,2 +1,2 @@
-Script that counts number directories in the PATH
+Script that create an alias
 
